@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dipanshu Verma</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img align="right" scr="https://cdn.dribbble.com/users/348324/screenshots/1784866/technology.gif" alt="" />
+<p><img align="right" scr="https://cdn.dribbble.com/users/348324/screenshots/1784866/technology.gif" alt="" /></p>
 <h2>About Me😊</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vermasaab01&label=Profile%20views&color=0e75b6&style=flat" alt="vermasaab01" /> </p>
