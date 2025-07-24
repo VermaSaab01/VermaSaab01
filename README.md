@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dipanshu Verma</h1>
 <h3 align="center">A passionate web developer from India</h3>
 <h2>About Me😊</h2>
-<img align="right" scr="https://www.bing.com/th/id/OGC.cfc0d3846b17f1c862276b29c4149d5d?r=0&o=7&pid=1.7&rm=3&rurl=https%3a%2f%2fmedia0.giphy.com%2fmedia%2fHUplkVCPY7jTW%2fgiphy.gif&ehk=j6YLR%2b3TylSHrF61g4sxohyB11xkMEiLILVNI3XcdWw%3d" alt="" />
+<img align="right" scr="https://media0.giphy.com/media/HUplkVCPY7jTW/giphy.gif" alt="" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vermasaab01&label=Profile%20views&color=0e75b6&style=flat" alt="vermasaab01" /> </p>
 
